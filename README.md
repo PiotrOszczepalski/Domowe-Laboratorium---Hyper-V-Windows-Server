@@ -1,2 +1,3 @@
-<img width="945" height="709" alt="image" src="https://github.com/user-attachments/assets/975dfa42-9e87-4115-a96e-783ed98980a4" />
+HomeLab - Windows Server 2016 + Windows 10 (Hyper-V)
+Projekt domowego laboratorium w celu nauki administracji systemami Windows. Utworzyłem środowisko wirtualne w Hyper-V na moim komputerze osobistym z Windows 10 Pro, składające się z serwera Windows Server 2016 oraz maszyn klienckich Windows 10.
 
