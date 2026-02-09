@@ -81,6 +81,9 @@ Serwer posiada 2 karty sieciowie, jedną w trybie pracy NAT, aby miał dostęp d
 
 Klient po aktualizacji zasad:
 
+<img width="518" height="139" alt="image" src="https://github.com/user-attachments/assets/8288e4e1-88ef-40e6-b99a-68f73aa8adb7" />
+
+<img width="795" height="484" alt="image" src="https://github.com/user-attachments/assets/ee985172-237c-48c4-a97b-ffe0a4ab542b" />
 
 
 
