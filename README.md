@@ -68,6 +68,9 @@ Serwer posiada 2 karty sieciowie, jedną w trybie pracy NAT, aby miał dostęp d
 
 <img width="649" height="770" alt="image" src="https://github.com/user-attachments/assets/0f6fb4a3-8f76-410b-bb43-4a9528892037" />
 
+<img width="271" height="168" alt="image" src="https://github.com/user-attachments/assets/40efcdc9-9331-449b-8837-03bbe3d1a5bd" />
+
+
 
 
 
