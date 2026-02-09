@@ -23,4 +23,20 @@ Serwer posiada 2 karty sieciowie, jedną w trybie pracy NAT, aby miał dostęp d
 
 <img width="635" height="475" alt="image" src="https://github.com/user-attachments/assets/da642532-2893-4608-a088-aa0cb27c0f10" />
 
+3. Konfiguracja serwera:
+- zmiana nazwy administratora i wyłączenie domyślnego konta admina
+- ustawienie adresu ip
+
+<img width="374" height="383" alt="image" src="https://github.com/user-attachments/assets/2f39a0c0-c9b3-4bea-ab3c-e6ca0f7417e9" />
+
+<img width="524" height="393" alt="image" src="https://github.com/user-attachments/assets/0c8091c6-1896-44d8-bd51-a30ae4a3e00b" />
+
+<img width="377" height="223" alt="image" src="https://github.com/user-attachments/assets/31022b48-fc97-4d04-b95b-367616c63904" />
+
+<img width="395" height="449" alt="image" src="https://github.com/user-attachments/assets/db019065-c02f-4f80-acc2-609c097cc9f6" />
+
+
+
+
+
 
