@@ -70,6 +70,22 @@ Serwer posiada 2 karty sieciowie, jedną w trybie pracy NAT, aby miał dostęp d
 
 <img width="271" height="168" alt="image" src="https://github.com/user-attachments/assets/40efcdc9-9331-449b-8837-03bbe3d1a5bd" />
 
+6. Zasady grupy (Group Policy):
+- blokujemy pracownikom dostęp do wiersza poleceń oraz panelu sterowania
+
+<img width="898" height="601" alt="image" src="https://github.com/user-attachments/assets/6497d928-e363-4909-b0fd-e9e4f112b376" />
+
+<img width="936" height="492" alt="image" src="https://github.com/user-attachments/assets/d39f69a5-8c68-46aa-9656-d4b2080b3bf9" />
+
+<img width="413" height="95" alt="image" src="https://github.com/user-attachments/assets/60e96226-6c7f-42ab-b1ec-3a0bb3da4b99" />
+
+Klient po aktualizacji zasad:
+
+
+
+
+
+
 
 
 
